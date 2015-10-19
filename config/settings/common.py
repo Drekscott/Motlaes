@@ -43,7 +43,8 @@ THIRD_PARTY_APPS = (
 
 # Apps specific for this project go here.
 LOCAL_APPS = (
-    'motlaes.users',  # custom users app
+    'motlaes.users',
+    'store'  # custom users app
     # Your stuff: custom apps go here
 )
 
